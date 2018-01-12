@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+header{
+  background-color: rgb(56, 56, 56);
+  width: 100%;
+  height: 75px;
+  color: rgb(255, 255, 255);
+  padding: 60px;
+  text-align: center;
+}
+
+body {
+ font-family: arial, sans-serif; /* this is the font that would be used on the webpage */
+ font-style: normal;
+ background-color: DarkGrey; /* this is the background colour of the webpage */
+ margin: 0;
+ height: 100% auto;
+ padding: 500px;
+ }
+
+p{
+  width: 100%
+  color: #333333 /* this is the colour of the text in the header of the page */
+  padding: 20px;
+  font-size: 15px; /* This is the size of the font on the page */
+  text-align: center;
+
+}
+
+h1{
+  padding: relative;
+}
+
+p{
+  padding: relative;
+}
+
+#canvasContainer{
+
+  width: 1280px;
+  margin: 0px auto;
+  margin-top: 30px;
+}
+
+canvas {
+
+}
